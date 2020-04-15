@@ -1,9 +1,9 @@
 # A project to build a web-application to monitor one’s weight
 
 1. Stakeholders: 
-    - Development team
-    - End users
-    - Project owner
+    - Equipo de desarrollo
+    - Usuarios Finales
+    - Dueño del proyecto
 2. Internos: 
     - Inversores
 3. Suppliers:
