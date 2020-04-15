@@ -1,14 +1,14 @@
-#A project to build a web-application to monitor one’s weight
+# A project to build a web-application to monitor one’s weight
 
 1. Stakeholders: 
-  - Development team
-  - End users
-  - Project owner
+    - Development team
+    - End users
+    - Project owner
 2. Internos: 
-  - Inversores
+    - Inversores
 3. Suppliers:
-  - Nutricionistas
+    - Nutricionistas
 4. Customers:
-  - Atletas
-  - Personas que necesitan control médico de peso
-  - Personas con sobrepeso
+    - Atletas
+    - Personas que necesitan control médico de peso
+    - Personas con sobrepeso
